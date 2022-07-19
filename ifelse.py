@@ -29,4 +29,9 @@ for i in lst:
     if i > 5:
         break
     print("Item:{0}".format(i))
-    
+
+print("---continue구문---")
+for i in lst:
+    if i % 2 == 0:
+        continue
+    print("Item:{0}".format(i))
