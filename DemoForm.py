@@ -1,5 +1,5 @@
 # DemoForm.py
-
+# DemoForm.ui(화면단) + DemoForm.py()
 import sys
 from PyQt5.QtWidgets import *
 from PyQt5 import uic
